@@ -1,4 +1,4 @@
-# Roar 2 Aim Happy (RAH)
+# Roar 2 Aim Happy (RHA)
 
 🏆ROAR YOUR SCORE, LIVE HAPPY & AIM TO WIN!🏆
 
