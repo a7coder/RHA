@@ -3,7 +3,7 @@ import { ImageBackground,StyleSheet } from "react-native";
 export default function Loading() {
   return (
     
-      <ImageBackground source={require('../assets/img/icon.gif')} style={styles.img}/>
+      <ImageBackground source={require('../assets/img/logo.gif')} style={styles.img}/>
       
   );
 }

@@ -8,14 +8,13 @@
     "userInterfaceStyle": "light",
     "androidStatusBar": {
       "backgroundColor": "#1a1015",
-      "translucent": false, 
+      "translucent": false,
       "barStyle": "light-content"
-     
     },
     "splash": {
       "image": "./assets/img/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#1a1015"   
+      "backgroundColor": "#1a1015"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -30,10 +29,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/img/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.a7coder.rha"
     },
     "web": {
       "favicon": "./assets/img/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "eed56142-3ec3-42e0-a4a2-451c4fcc5460"
+      }
     }
   }
 }
