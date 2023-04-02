@@ -20,7 +20,7 @@ RHA is a simple, addictive game built on React Native. The goal is to reach 100 
 
 ## Installation 🥷
 
-1. Clone the repository or Install The APK directly on your Android Device
+1. Clone the repository or [Download](https://raw.githubusercontent.com/a7coder/RHA/main/rha.apk) The APK directly on your Android Device
 2. Open the project in your preferred code editor
 3. Install the necessary dependencies by running the command: `npm install`
 4. Run the project on your preferred platform by running the command: `npm start`
