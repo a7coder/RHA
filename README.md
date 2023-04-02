@@ -40,7 +40,7 @@ Contributions are always welcome! If you'd like to contribute to RHA, please fol
 RHA is licensed under the [MIT License](LICENSE).
 
 ## ScreenShots 📷
-![Screenshot of RHA](/screenshots/1.png "RHA Screenshot")
+![Screenshot of RHA](https://github.com/a7coder/RHA/blob/main/screenshots/1.jpg)
 ![Screenshot of RHA](/screenshots/2.png "RHA Screenshot")
 ![Screenshot of RHA](/screenshots/3.png "Welcome Screenshot")
 ![Screenshot of RHA](/screenshots/4.png "Help Screenshot")
